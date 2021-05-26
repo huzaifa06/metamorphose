@@ -1,0 +1,9 @@
+int a;
+int var;
+a=0;
+for var in [2:20:2]
+{
+	a = a + var;
+}
+cout(a);
+$

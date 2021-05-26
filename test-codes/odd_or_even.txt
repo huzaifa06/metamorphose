@@ -1,0 +1,15 @@
+int a;
+a = 24;
+if(a%2 == 1)
+{
+	cout(a);
+	cout[odd number];
+}
+
+else
+{
+	cout(a);
+	cout[even number];
+}
+fi
+$

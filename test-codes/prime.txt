@@ -1,0 +1,27 @@
+int N;
+int i;
+int flag;
+N = 23;
+flag = 0; 
+for i in [2:N:1]
+{
+	if(N%i == 0)
+	{
+		flag = 1; 
+		break
+	} 
+	fi
+}
+
+if(flag == 0)
+{
+	cout(N);
+	cout[Prime number]; 
+}
+else 
+{ 
+	cout(N);
+	cout[NOT PRIME]; 
+}
+fi
+$

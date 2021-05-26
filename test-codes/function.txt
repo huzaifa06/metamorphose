@@ -1,0 +1,23 @@
+func addd(funca, funcb)
+{
+	int c;
+	c = funca + funcb;
+	return c;
+}
+
+func subb(funca, funcb)
+{
+	int d;
+	d = funca - funcb;
+	return d;
+}
+
+int answer1;
+int answer2;
+answer1 = addd(5,9);
+answer2 = subb(8,3);
+cout(Addition);
+cout(answer1);
+cout(Subtraction);
+cout(answer2);
+$
